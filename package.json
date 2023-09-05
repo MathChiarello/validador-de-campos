@@ -1,0 +1,12 @@
+{
+  "name": "validador-de-campos",
+  "version": "1.0.0",
+  "description": "Projeto que valida campos cadastrais",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Matheus Chiarello",
+  "license": "ISC"
+}
